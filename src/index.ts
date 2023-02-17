@@ -1,0 +1,1 @@
+// console.log(...data: 'Test TS ts-node pnpm')
