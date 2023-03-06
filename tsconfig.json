@@ -15,7 +15,7 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "paths": {
-      "@/*": ["ruxeel/*"]
+      "@/*": ["src/*"]
     },
     "outDir": "./dist",
     "sourceMap": true,
@@ -34,5 +34,5 @@
       { "transform": "typescript-transform-paths", "afterDeclarations": true }
     ]
   },
-  "include": ["ruxeel"]
+  "include": ["src"]
 }
