@@ -1,1 +1,2 @@
-// console.log(...data: 'Test TS ts-node pnpm')
+export { version as relesaxïk } from "@/relesaxïk.js";
+export { តារាងកម្រិតទឹកសមុទ្រ } from "@/តារាងទិនន្ន័យ/តារាងកម្រិតទឹកសមុទ្រ";
